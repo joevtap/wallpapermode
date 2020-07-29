@@ -1,7 +1,7 @@
 from mudarWallpaper import mudarWallpaper
 from os.path import isfile, join
 from time import sleep
-from os import listdir
+from os import listdir, system
 
 
 def slideWallpaper(pathPasta):
@@ -18,7 +18,8 @@ def slideWallpaper(pathPasta):
         else:
             wallpaperIndice = 0
         
-        print(f'O wallpaper ativo é "{wallpaperAtivo}"')
+        system('cls')
+        print('#', f'O wallpaper ativo é "{wallpaperAtivo}"')
         sleep(300)
 
 if __name__ == "__main__":
