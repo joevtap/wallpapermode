@@ -10,10 +10,10 @@ while True:
     modoEscolhido = input('>>> ')
 
     if '1' in modoEscolhido:
-        system('python modo_otaku.pyw')
+        system('python modo_otaku.py')
         break
     elif '2' in modoEscolhido:
-        system('python modo_normal.pyw')
+        system('python modo_normal.py')
         break
     else:
         print('Voce deve escolher uma das opcoes abaixo')
