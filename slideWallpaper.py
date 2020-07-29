@@ -19,7 +19,7 @@ def slideWallpaper(pathPasta):
             wallpaperIndice = 0
         
         system('cls')
-        print('#', f'O wallpaper ativo é "{wallpaperAtivo}"')
+        print(f'# O wallpaper ativo é "{wallpaperAtivo}"')
         sleep(300)
 
 if __name__ == "__main__":
