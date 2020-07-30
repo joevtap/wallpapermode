@@ -1,3 +1,6 @@
 __pycache__/
 modo_normal/
 modo_otaku/
+build/
+main.spec
+main.exe
