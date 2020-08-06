@@ -1,5 +1,8 @@
-# Wallpapermode
-## Um script em python para alternar meu slideshow de wallpapers entre o "modo_otaku" e o "modo_normal"
+![GitHub last commit](https://img.shields.io/github/last-commit/joevtap/wallpapermode?color=%238152de)
 
-- Duração padrão do slide = 300s (5 minutos)
-- "modo_otaku" e "modo_normal" podem ser substituídos pelo nome dos diretórios onde ficarão os wallpapers (devem estar na pasta raíz)
+<br>
+
+# Wallpapermode
+## A python script to change the wallpaper slideshow mode between "otaku-mode" and "normal-mode"
+
+> This project will be translated to english soon 🚧
